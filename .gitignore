@@ -12,7 +12,6 @@
 /web/sites/*/public
 /web/sites/*/private
 /web/sites/*/files-public
-/web/sites/*/files-private
 
 # Ignore paths that may contain temporary files
 /web/sites/*/translations
