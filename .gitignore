@@ -18,7 +18,7 @@
 /web/sites/*/tmp
 
 
-# Ignore drupal core (if not versioning drupal sources)
+# Ignore drupal core (if not versioning drupal sources if not ipad)
 /web/vendor
 /web/core
 /web/modules/README.txt
