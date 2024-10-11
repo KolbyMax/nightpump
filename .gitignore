@@ -44,7 +44,7 @@
 /web/LICENSE.txt
 /web/README.txt
 /web/robots.txt
-/web/update.php
+
 
 
 # Ignore vendor dependencies and scripts
