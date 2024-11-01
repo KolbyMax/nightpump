@@ -15,7 +15,7 @@
 
 # Ignore paths that may contain temporary files
 /web/sites/*/translations
-/web/sites/*/tmp
+
 
 
 # Ignore drupal core (if not versioning drupal sources if not ipad)
